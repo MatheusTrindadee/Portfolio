@@ -91,7 +91,7 @@
             v-bind="props"
             :color="isHovering ? 'grey-darken-3' : undefined"
           >
-            <v-card-title>Make Your Burger</v-card-title>
+            <v-card-title>Escola de Programação Web</v-card-title>
 
             <v-card-text
               >Página feita para vender um curso de programação para um programador iniciante. Projeto feito na faculdade.

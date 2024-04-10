@@ -4,11 +4,6 @@
 
       <v-spacer></v-spacer>
 
-      <v-btn variant="text"> Projetos </v-btn>
-
-      <v-btn variant="text"> Formação </v-btn>
-
-      <v-btn variant="text"> Contatos </v-btn>
     </v-app-bar>
 </template>
 
